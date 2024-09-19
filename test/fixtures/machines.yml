@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  make: MyString
+  model: MyString
+  serial_number: MyString
+  description: MyText
+  last_service_date: 2024-09-17 22:27:22
+  customer: one
+
+two:
+  make: MyString
+  model: MyString
+  serial_number: MyString
+  description: MyText
+  last_service_date: 2024-09-17 22:27:22
+  customer: two
